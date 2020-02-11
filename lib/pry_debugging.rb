@@ -1,9 +1,10 @@
 def plus_two(num)
 
-	num + 2
-	binding.pry
-	num
 	
+	
+	num
+	binding.pry
+	num + 2
 	
 	
 
