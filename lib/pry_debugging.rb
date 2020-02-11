@@ -1,14 +1,13 @@
 def plus_two(num)
 
 	
-	
+	plus_two(3)
 
-	num + 2
-	binding.pry 
 	
+	binding.pry 
+	num + 2
 	
 	
 	
 
 end
-plus_two(3)
